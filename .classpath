@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="out/artifacts/Comp_304___Assignment_2___Genetic_Algorithms_jar/Comp 304 - Assignment 2 - Genetic Algorithms.jar"/>
+	<classpathentry kind="output" path="out/production/Comp 304 - Assignment 2 - Genetic Algorithms"/>
+</classpath>
